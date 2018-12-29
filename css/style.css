@@ -157,6 +157,10 @@ header .banner {
     background: url("images/CNN.png") no-repeat 100%;
     background-size: cover;
 }
+#work-8 {
+    background: url("images/RL.png") no-repeat 100%;
+    background-size: cover;
+}
 .block::after, .block::before {
     content: '';
     background: rgba(0,0,0,0.6);
